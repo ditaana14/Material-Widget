@@ -29,14 +29,14 @@ class HomePage extends StatelessWidget {
                       Container(
                         padding: const EdgeInsets.only(bottom: 8),
                         child: const Text(
-                          'Oeschinen Lake Campground',
+                          'Mount Bromo',
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                           ),
                         ),
                       ),
                       Text(
-                        'Kandersteg, Switzerland',
+                        'Jawa Timur, Indonesia',
                         style: TextStyle(
                           color: Colors.grey[500],
                         ),
@@ -117,12 +117,12 @@ class HomePage extends StatelessWidget {
           const Padding(
             padding: EdgeInsets.all(32),
             child: Text(
-              'Lake Oeschinen lies at the foot of the Blüemlisalp in the Bernese '
-              'Alps. Situated 1,578 meters above sea level, it is one of the '
-              'larger Alpine Lakes. A gondola ride from Kandersteg, followed by a '
-              'half-hour walk through pastures and pine forest, leads you to the '
-              'lake, which warms to 20 degrees Celsius in the summer. Activities '
-              'enjoyed here include rowing, and riding the summer toboggan run.',
+              'Mount Bromo is an active volcano in East Java'
+              'This mountain has a height of 2,329 meters above sea level' 
+              'is in four districts'
+              'Mount Bromo is famous as a major tourist attraction in East Java' 
+              'Bromo is attractive because of its status as an active volcano'
+              'Mount Bromo is included in the Bromo Tengger Semeru National Park area',
               softWrap: true,
             ),
           ),
